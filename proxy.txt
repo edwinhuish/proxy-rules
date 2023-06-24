@@ -1,6 +1,7 @@
 !--------- VSCODE ---------
 ||visualstudio.com
 ||vo.msecnd.net
+||code.visualstudio.com
 
 !--------- SYNO Community ---------
 ||synocommunity.com
